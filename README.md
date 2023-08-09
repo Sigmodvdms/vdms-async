@@ -16,17 +16,6 @@ storage framework specifically aimed at processing visual data, and also it
 includes an investigation into the right hardware and software optimizations
 to store and efficiently access large scale (pre-processed) visual data.
 
-## Motivation
-
-Data access is swiftly becoming a bottleneck in visual data processing,
-providing an opportunity to influence the way visual data is treated in the
-storage system. To foster this discussion, we identify two key areas where
-storage research can strongly influence visual processing run-times:
-efficient metadata storage and new storage formats for visual data. We
-propose a storage architecture designed for efficient visual data access
-that exploits next generation hardware and give preliminary results showing
-how it enables efficient vision analytics.
-
 
 ## Get Started
 
